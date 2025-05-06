@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+# models 
+*.pth
+
+# datos
+Datos/
 
 # Distribution / packaging
 .Python
