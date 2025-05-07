@@ -11,6 +11,8 @@ __pycache__/
 # datos
 Datos/
 
+wandb/
+
 # Distribution / packaging
 .Python
 build/
